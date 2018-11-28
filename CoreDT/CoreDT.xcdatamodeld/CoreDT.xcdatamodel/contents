@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="17G3025" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CoreUsers" representedClassName="CoreUsers" syncable="YES" codeGenerationType="class">
+        <attribute name="coreage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="corefname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="corelname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coreuid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CoreUsers" positionX="-63" positionY="-18" width="128" height="105"/>
+    </elements>
+</model>
